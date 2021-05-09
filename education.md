@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 feature_text: |
   # Education and Workshops
 feature_image: "/assets/education_background.jpg"
