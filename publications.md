@@ -10,7 +10,7 @@ Simon, A., Lücking, R., Moncada, B., **Mercado-Díaz, J. A.**, Bungartz, F., C�
 
 Lindgren, H., Moncada, B., Lücking, R., Magain, N., Simon, A., Goffinet, B., Serusiaux, E., Nelsen, M.P., **Mercado-Díaz, J.A.** Widhelm, T.J. & Lumbsch, H. T. (2020). Cophylogenetic patterns in algal symbionts correlate with repeated symbiont switches during diversification and geographic expansion of lichen-forming fungi in the genus Sticta (Ascomycota: Peltigeraceae). Molecular Phylogenetics and Evolution, 150: 106860.
 
-**Mercado-Diaz, J.A.**, Moncada, B., Widhelm, T., Lucking, R., and H.T. Lumbsch (2019) Elucidating species richness in lichen fungi: the genus Sticta in Puerto Rico. TAXON (in press).
+**Mercado-Diaz, J.A.**, Moncada, B., Widhelm, T., Lucking, R., and H.T. Lumbsch (2019) Elucidating species richness in lichen fungi: the genus Sticta in Puerto Rico. TAXON 69(5): 851–891 [pdf](/assets/pdf/Mercado-Diaz_Sticta_PR_2020.pdf).
 
 Moncada, B., **Mercado-Díaz, J. A.**, Magain, N., Hodkinson, B. P., Smith, C. W., Bungartz, F., Pérez- Pérez, R-E., Gumboski, E., Sérusiaux, E., Lumbsch, H. T., Lucking, R. (2019) Phylogenetic and phenotypic delineation in two new, sympatric species in the Sticta weigelii morphodeme (Ascomycota: Lobariaceae): does ecology drive diversification? Journal of Biogeography (in review).
 
