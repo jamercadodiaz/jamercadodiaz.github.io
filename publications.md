@@ -6,7 +6,7 @@ feature_image: "/assets/publications_background.jpg"
 excerpt: ""
 aside: false
 ---
-**Mercado-Díaz, J. A.**, Merced A. (2021) Effects of hurricanes on the bryological and lichenological flora of Puerto Rican forests Acta Científica, 32(1-3):55-72. [pdf] (\assets\pdf\2021 Mercado-Díaz & Merced – Acta Científica V32_55–72.pdf)
+**Mercado-Díaz, J. A.**, Merced A. (2021) Effects of hurricanes on the bryological and lichenological flora of Puerto Rican forests Acta Científica, 32(1-3):55-72. [pdf](\assets\pdf\2021 Mercado-Díaz & Merced – Acta Científica V32_55–72.pdf)
 
 Moncada, B., **Mercado-Díaz, J. A.**, Magain, N., Hodkinson, B. P., Smith, C. W., Bungartz, F., Pérez- Pérez, R-E., Gumboski, E., Sérusiaux, E., Lumbsch, H. T., & Lücking, R. (2021) Phylogenetic diversity of two geographically overlapping lichens: isolation by distance, environment or fragmentation? Journal of Biogeography 48(3): 676-689.
 
@@ -32,9 +32,9 @@ Lucking, R., Nelsen, M. P., Aptroot, A., Barillas de Klee, R., Bawingan, P. A., 
 
 Lücking, R., Dal Forno, M., Moncada, B., Coca, L.F., Vargas-Mendoza, L.Y., Aptroot, A., Arias, L.J., Besal, B., Bungartz, F., Cabrera-Amaya, D.M., Cáceres, M.E.S, Chaves, J.L., Eliasaro, S., Gutiérrez, M.C., Hernández Marin, J.E., Herrera-Campos, M de los A., Holgado-Rojas, M.E., Jonitz, H., Kukwa, M., Lucheta, F., Madriñán, S., Marcelli, M.P., de Azevedo Martins, S.M., **Mercado-Díaz, J. A.**, Molina, J.A., Morales, E.A., Nelson, P.R., Nugra, F., Ortega, F., Paredes, T., Patiño, A.L., Peláez-Pulido, R.N., Pérez Pérez, R.E., Perlmutter, G.B., Rivas-Plata, E., Robayo, J., Rodríguez, C., Simijaca, D.F., Soto-Medina, E., Spielmann, A.A., Suárez-Corredor, A., Torres, J-M., Vargas, C.A., Yánez-Ayabaca, A., Weerakoon, G., Wilk, K., Celis Pacheco, M., Díazgranados, M., Brokamp, G., Borsch, T., Gillevet, P., Sikaroodi, M. and J.D. Lawrey (2016) Turbo-taxonomy to assemble a megadiverse lichen genus: seventy new species of *Cora* (Basidiomycota: Agaricales: Hygrophoraceae), honouring David Leslie Hawksworth’s seventieth birthday. Fungal Diversity, 1-69.
 
-**Mercado-Díaz J. A.**, Gould WA, González G, Lücking R (2015) Lichens in Puerto Rico: an ecosystem approach. Gen. Tech. Rep. IITF-GTR-46. San Juan, PR: U.S. Department of Agriculture, Forest Service, International Institute of Tropical Forestry. 76 p. [pdf] (https://www.fs.usda.gov/treesearch/pubs/48249)
+**Mercado-Díaz J. A.**, Gould WA, González G, Lücking R (2015) Lichens in Puerto Rico: an ecosystem approach. Gen. Tech. Rep. IITF-GTR-46. San Juan, PR: U.S. Department of Agriculture, Forest Service, International Institute of Tropical Forestry. 76 p. [pdf](https://www.fs.usda.gov/treesearch/pubs/48249)
 
-**Mercado Díaz, J. A.** (2014) La flora del transecto social-ecologico del Karso Norteño. Acta Científica 28(1-3): 50-68. [pdf] (/assets/pdf/Mercado-Diaz_flora-transecto_karso_2014.pdf)
+**Mercado Díaz, J. A.** (2014) La flora del transecto social-ecologico del Karso Norteño. Acta Científica 28(1-3): 50-68. [pdf](/assets/pdf/Mercado-Diaz_flora-transecto_karso_2014.pdf)
 
 **Mercado-Díaz J. A.**, Gould WA, González G (2014) Soil nutrients, landscape age, and Sphagno-Eriophoretum vaginati plant communities in Arctic moist-acidic tundra landscapes. Open Journal of Soil Science 4: 375-387. [pdf](\assets\pdf\OJSS_2014111909255045 (3).pdf)
 
