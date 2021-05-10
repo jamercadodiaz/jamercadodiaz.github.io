@@ -13,7 +13,7 @@ Soon more on cool things outside academic life, but here a few bits!
 * **Lichens of the Maricao State forest, Puerto Rico** [pdf](\assets\pdf\Mercado-Diaz_2015_Maricao_rlg.pdf)
 * **Lichens of Mata de Plátano Field Station, Arecibo, Puerto Rico** [pdf](\assets\pdf\Mercado-Diaz_2015_Mata_platano_rlg.pdf)
 
-## Popular media articles
+## Popular media articles  
 # 2020
 * **Equipo liderado por científico puertorriqueño documenta nuevas especies de líquenes.** [link](https://www.elnuevodia.com/ciencia-ambiente/flora-fauna/notas/equipo-liderado-por-cientifico-puertorriqueno-documenta-nuevas-especies-de-liquenes/) *Article on the discovery of 8 new species of lichens from Puerto Rico.*
 
