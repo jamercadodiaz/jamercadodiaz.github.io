@@ -34,7 +34,7 @@ Lücking, R., Dal Forno, M., Moncada, B., Coca, L.F., Vargas-Mendoza, L.Y., Aptr
 
 **Mercado-Díaz J. A.**, Gould WA, González G, Lücking R (2015) Lichens in Puerto Rico: an ecosystem approach. Gen. Tech. Rep. IITF-GTR-46. San Juan, PR: U.S. Department of Agriculture, Forest Service, International Institute of Tropical Forestry. 76 p. [pdf](https://www.fs.usda.gov/treesearch/pubs/48249)
 
-**Mercado Díaz, J. A.** (2014) La flora del transecto social-ecologico del Karso Norteño. Acta Científica 28(1-3): 50-68. [pdf](/assets/pdf/Mercado-Diaz_flora-transecto_karso_2014.pdf)
+**Mercado Díaz, J. A.** (2014) La flora del transecto social-ecologico del Karso Norteño. Acta Científica 28(1-3): 50-68. [pdf](\assets\pdf\acta_v28_2014.pdf)
 
 **Mercado-Díaz J. A.**, Gould WA, González G (2014) Soil nutrients, landscape age, and Sphagno-Eriophoretum vaginati plant communities in Arctic moist-acidic tundra landscapes. Open Journal of Soil Science 4: 375-387. [pdf](\assets\pdf\OJSS_2014111909255045 (3).pdf)
 
@@ -62,7 +62,7 @@ Elmendorf SC, Henry GHR, Hollister RD, Bjork RG, Bjorkman AJ, Callaghan TV, Coop
 
 Lücking R, Seavey F, Common RS, Beeching SQ, Breuss O, Buck WR, Crane L, Hodges M, Hodkinson BP, Lay E, Lendemer JC, McMullin RT, **Mercado-Díaz JA**, Nelsen MP, Rivas-Plata E, Safranek W, Sanders WB, Schaefer Jr HP. & J Seavey (2011) The lichens of Fakahatchee Strand Preserve State Park, Florida: Proceedings from the 18th Tuckerman Workshop. Bulletin of the Florida Museum of Natural History 4:127–186.
 
-**Mercado-Díaz, JA** and E., Santiago-Valentin (2010) Lichenological studies in Puerto Rico: History and Current Status. Harvard Papers in Botany 15(1): 93–101. [pdf](\assets\pdf\Mercado-Diaz_2010_lichenology_puertorico.pdf)
+**Mercado-Díaz, JA** and E., Santiago-Valentin (2010) Lichenological studies in Puerto Rico: History and Current Status. Harvard Papers in Botany 15(1): 93–101. [pdf](\assets\pdf\mercado_2010_lichenspuertorico.pdf)
 
 Walker DA, Bhatt US, Comiso JC, Epstein HE, Gould WA, Henry GHR, Jia GJ, Kokelj SV, Lantz TC, **Mercado-Díaz JA**, Pinzon JE, Raynolds MK, Shaver GR, Tucker CJ, Tweedie CE, Webber, PJ (2010) Arctic: Land: Vegetation [in “State of the Climate in 2009”]. Bulletin of the American Meteorological Society. 91(6):S114-S116.
 
