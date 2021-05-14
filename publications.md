@@ -12,7 +12,7 @@ Moncada, B., **Mercado-Díaz, J. A.**, Magain, N., Hodkinson, B. P., Smith, C. W
 
 Moncada, B., **Mercado-Díaz, J. A.**, Smith, C. W., Bungartz, F., Sérusiaux, E., Lumbsch, H. T., Lücking, R. (2021) Two new common, previously unrecognized species in the *Sticta weigelii* morphodeme (Ascomycota: Peltigeraceae). Willdenowia 51(1): 35-45.
 
-**Mercado-Díaz, J. A.**, Moncada, B., Widhelm, T., Lucking, R., and H.T. Lumbsch (2019) Elucidating species richness in lichen fungi: the genus Sticta in Puerto Rico. TAXON 69(5): 851–891. [pdf](/assets/pdf/Mercado-Diaz_Sticta_PR_2020.pdf)
+**Mercado-Díaz, J. A.**, Moncada, B., Widhelm, T., Lucking, R., and H.T. Lumbsch (2020) Elucidating species richness in lichen fungi: the genus Sticta in Puerto Rico. TAXON 69(5): 851–891. [pdf](/assets/pdf/Mercado-Diaz_Sticta_PR_2020.pdf)
 
 Simon, A., Lücking, R., Moncada, B., **Mercado-Díaz, J. A.**, Bungartz, F., Cáceres, M. E. D. S., ... & Goffinet, B. (2020). *Emmanuelia*, a new genus of lobarioid lichen-forming fungi (Ascomycota: Peltigerales): phylogeny and synopsis of accepted species. Plant and Fungal Systematics, 65(1), 76-94.
 
@@ -62,7 +62,7 @@ Elmendorf SC, Henry GHR, Hollister RD, Bjork RG, Bjorkman AJ, Callaghan TV, Coop
 
 Lücking R, Seavey F, Common RS, Beeching SQ, Breuss O, Buck WR, Crane L, Hodges M, Hodkinson BP, Lay E, Lendemer JC, McMullin RT, **Mercado-Díaz JA**, Nelsen MP, Rivas-Plata E, Safranek W, Sanders WB, Schaefer Jr HP. & J Seavey (2011) The lichens of Fakahatchee Strand Preserve State Park, Florida: Proceedings from the 18th Tuckerman Workshop. Bulletin of the Florida Museum of Natural History 4:127–186.
 
-**Mercado-Díaz, JA** and E., Santiago-Valentin (2010) Lichenological studies in Puerto Rico: History and Current Status. Harvard Papers in Botany 15(1): 93–101. [pdf](\assets\pdf\mercado_2010_lichenspuertorico.pdf)
+**Mercado-Díaz, JA** and E., Santiago-Valentin (2010) Lichenological studies in Puerto Rico: History and Current Status. Harvard Papers in Botany 15(1): 93–101. [pdf](\assets\pdf\Mercado-Diaz_2010_lichenology_puertorico.pdf)
 
 Walker DA, Bhatt US, Comiso JC, Epstein HE, Gould WA, Henry GHR, Jia GJ, Kokelj SV, Lantz TC, **Mercado-Díaz JA**, Pinzon JE, Raynolds MK, Shaver GR, Tucker CJ, Tweedie CE, Webber, PJ (2010) Arctic: Land: Vegetation [in “State of the Climate in 2009”]. Bulletin of the American Meteorological Society. 91(6):S114-S116.
 
