@@ -6,7 +6,6 @@ feature_image: "/assets/other_stuff_background.jpg"
 excerpt: ""
 aside: false
 ---
-
 ## Outreach and citizen science
 ![liquenes_pr](/assets/liquenes_pr_fb.JPG)
 I currently administer **Líquenes-PR**, a Facebook group that promotes the appreciation of lichens in Puerto Rico and provides feedback about taxonomic identity of lichens photographed by nature enthusiasts in the island. Check out the group [here!](https://www.facebook.com/groups/268986369790184)

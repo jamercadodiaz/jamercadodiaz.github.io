@@ -6,6 +6,7 @@ feature_image: "/assets/education_background.jpg"
 excerpt: ""
 aside: false
 ---
+### Education
  * Ph.D. Student. The University of Chicago. Committee on Evolutionary Biology (in progress)  
  * M.Sc. Biology. University of Puerto Rico, Río Piedras Campus (2011)
  * B.A. Environmental Sciences. University of Puerto Rico, Río Piedras Campus (2002)
