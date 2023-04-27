@@ -6,6 +6,12 @@ feature_image: "/assets/publications_background.jpg"
 excerpt: ""
 aside: false
 ---
+**Mercado-Díaz, JA**, Holupchinski, E, Álvarez-Berríos, N, Gould, WA, Miller, P, Mote, T., Ramseyer, C, & González, G. (2023). Fostering knowledge-exchange and collaboration among drought-related initiatives in the Caribbean. Bulletin of the American Meteorological Society (in press). [pdf] (\assets\pdf\1520-0477-BAMS-D-23-0054.1.pdf)
+
+Magain, N, Miadlikowska, J, Goffinet, B, Goward, T, Jüriado, I, Simon , A, Pardo de la Hoz, CJ, **Mercado-Díaz, JA**, Barlow, T, Moncada, B, Lücking, R, Spielmann, A, Canez, L, Wang, LS, Nelson, P, Wheeler, T, Lutzoni F, Sérusiaux, E. (2022) High species richness in the lichen genus Peltigera (Ascomycota, Lecanoromycetes): 34 species in the dolichorhizoid and scabrosoid clades of sect. Polydactylon, including 23 new to science. Persoonia (in press).
+
+Phraphuchamnong, P, Nelsen, MP, Distefano, I, **Mercado-Diaz, J. A.**, Parnmen, S, Rangsiruji, A, ... & Lumbsch, H. T. (2022). A new species of Megalaria (Ramalinaceae, Ascomycota) from Thailand, and recognition of subgenus Catillochroma. MycoKeys, 93, 149-163.
+
 **Mercado-Díaz, J. A.**, Merced A. (2021) Effects of hurricanes on the bryological and lichenological flora of Puerto Rican forests Acta Científica, 32(1-3):55-72. [pdf](\assets\pdf\2021 Mercado-Díaz & Merced – Acta Científica V32_55–72.pdf)
 
 Moncada, B., **Mercado-Díaz, J. A.**, Magain, N., Hodkinson, B. P., Smith, C. W., Bungartz, F., Pérez- Pérez, R-E., Gumboski, E., Sérusiaux, E., Lumbsch, H. T., & Lücking, R. (2021) Phylogenetic diversity of two geographically overlapping lichens: isolation by distance, environment or fragmentation? Journal of Biogeography 48(3): 676-689.
