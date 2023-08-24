@@ -8,11 +8,13 @@ aside: false
 ---
 ### Journal publications
 
+34\. **Mercado-Díaz, J.A.**, Lücking, R., Moncada, B., Campbell, K.C.S.E., Delnatte, C., Familia, L., Falcón-Hidalgo, B., Motito-Marín, A., Rivera-Queralta, Y., Widhelm, T.J. and Lumbsch, H.T. (2023) Species assemblages of insular Caribbean *Sticta* (lichenized Ascomycota: Peltigerales) over ecological and evolutionary time scales. Molecular Phylogenetics and Evolution, p.107830.
+
 33\. **Mercado-Díaz, JA**, Holupchinski, E, Álvarez-Berríos, N, Gould, WA, Miller, P, Mote, T., Ramseyer, C, & González, G. (2023). Fostering knowledge-exchange and collaboration among drought-related initiatives in the Caribbean. Bulletin of the American Meteorological Society (in press). [pdf](\assets\pdf\1520-0477-BAMS-D-23-0054.1.pdf)
 
-32\. Magain, N, Miadlikowska, J, Goffinet, B, Goward, T, Jüriado, I, Simon , A, Pardo de la Hoz, CJ, **Mercado-Díaz, JA**, Barlow, T, Moncada, B, Lücking, R, Spielmann, A, Canez, L, Wang, LS, Nelson, P, Wheeler, T, Lutzoni F, Sérusiaux, E. (2022) High species richness in the lichen genus Peltigera (Ascomycota, Lecanoromycetes): 34 species in the dolichorhizoid and scabrosoid clades of sect. Polydactylon, including 23 new to science. Persoonia (in press).
+32\. Magain, N, Miadlikowska, J, Goffinet, B, Goward, T, Jüriado, I, Simon , A, Pardo de la Hoz, CJ, **Mercado-Díaz, JA**, Barlow, T, Moncada, B, Lücking, R, Spielmann, A, Canez, L, Wang, LS, Nelson, P, Wheeler, T, Lutzoni F, Sérusiaux, E. (2022) High species richness in the lichen genus *Peltigera* (Ascomycota, Lecanoromycetes): 34 species in the dolichorhizoid and scabrosoid clades of sect. Polydactylon, including 23 new to science. Persoonia (in press).
 
-31\. Phraphuchamnong, P, Nelsen, MP, Distefano, I, **Mercado-Diaz, J. A.**, Parnmen, S, Rangsiruji, A, ... & Lumbsch, H. T. (2022). A new species of Megalaria (Ramalinaceae, Ascomycota) from Thailand, and recognition of subgenus Catillochroma. MycoKeys, 93, 149-163.
+31\. Phraphuchamnong, P, Nelsen, MP, Distefano, I, **Mercado-Diaz, J. A.**, Parnmen, S, Rangsiruji, A, ... & Lumbsch, H. T. (2022). A new species of *Megalaria* (Ramalinaceae, Ascomycota) from Thailand, and recognition of subgenus *Catillochroma*. MycoKeys, 93, 149-163.
 
 30\. **Mercado-Díaz, J. A.**, Merced A. (2021) Effects of hurricanes on the bryological and lichenological flora of Puerto Rican forests Acta Científica, 32(1-3):55-72. [pdf](\assets\pdf\2021 Mercado-Díaz & Merced – Acta Científica V32_55–72.pdf)
 
@@ -20,7 +22,7 @@ aside: false
 
 28\. Moncada, B., **Mercado-Díaz, J. A.**, Smith, C. W., Bungartz, F., Sérusiaux, E., Lumbsch, H. T., Lücking, R. (2021) Two new common, previously unrecognized species in the *Sticta weigelii* morphodeme (Ascomycota: Peltigeraceae). Willdenowia 51(1): 35-45.
 
-27\. **Mercado-Díaz, J. A.**, Moncada, B., Widhelm, T., Lucking, R., and H.T. Lumbsch (2020) Elucidating species richness in lichen fungi: the genus Sticta in Puerto Rico. TAXON 69(5): 851–891. [pdf](/assets/pdf/Mercado-Diaz_Sticta_PR_2020.pdf)
+27\. **Mercado-Díaz, J. A.**, Moncada, B., Widhelm, T., Lucking, R., and H.T. Lumbsch (2020) Elucidating species richness in lichen fungi: the genus *Sticta* in Puerto Rico. TAXON 69(5): 851–891. [pdf](/assets/pdf/Mercado-Diaz_Sticta_PR_2020.pdf)
 
 26\. Simon, A., Lücking, R., Moncada, B., **Mercado-Díaz, J. A.**, Bungartz, F., Cáceres, M. E. D. S., ... & Goffinet, B. (2020). *Emmanuelia*, a new genus of lobarioid lichen-forming fungi (Ascomycota: Peltigerales): phylogeny and synopsis of accepted species. Plant and Fungal Systematics, 65(1), 76-94.
 
