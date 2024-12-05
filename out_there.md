@@ -17,6 +17,7 @@ To contribute in this direction, I have been involved in several IDEA initiative
 
 ## Field guides
 
+* **Lichens of El Yunque National Forest, Río Grande, Puerto Rico** [pdf](\assets\pdf\1750_PUERTO RICO_Lichens of El Yunque National Forest.pdf)
 * **Lichens of the Maricao State forest, Puerto Rico** [pdf](\assets\pdf\Mercado-Diaz_2015_Maricao_rlg.pdf)
 * **Lichens of Mata de Plátano Field Station, Arecibo, Puerto Rico** [pdf](\assets\pdf\Mercado-Diaz_2015_Mata_platano_rlg.pdf)
 
