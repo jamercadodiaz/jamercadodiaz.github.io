@@ -12,7 +12,7 @@ aside: false
 
 34\. **Mercado-Díaz, J.A.**, Lücking, R., Moncada, B., Campbell, K.C.S.E., Delnatte, C., Familia, L., Falcón-Hidalgo, B., Motito-Marín, A., Rivera-Queralta, Y., Widhelm, T.J. and Lumbsch, H.T. (2023) Species assemblages of insular Caribbean *Sticta* (lichenized Ascomycota: Peltigerales) over ecological and evolutionary time scales. Molecular Phylogenetics and Evolution, p.107830.
 
-33\. **Mercado-Díaz, JA**, Holupchinski, E, Álvarez-Berríos, N, Gould, WA, Miller, P, Mote, T., Ramseyer, C, & González, G. (2023). Fostering knowledge-exchange and collaboration among drought-related initiatives in the Caribbean. Bulletin of the American Meteorological Society (in press). [pdf](\assets\pdf\1520-0477-BAMS-D-23-0054.1.pdf)
+33\. **Mercado-Díaz, JA**, Holupchinski, E, Álvarez-Berríos, N, Gould, WA, Miller, P, Mote, T., Ramseyer, C, & González, G. (2023). Fostering knowledge-exchange and collaboration among drought-related initiatives in the Caribbean. Bulletin of the American Meteorological Society 104(6), E1146-E1153. [pdf](\assets\pdf\1520-0477-BAMS-D-23-0054.1.pdf)
 
 32\. Magain, N, Miadlikowska, J, Goffinet, B, Goward, T, Jüriado, I, Simon , A, Pardo de la Hoz, CJ, **Mercado-Díaz, JA**, Barlow, T, Moncada, B, Lücking, R, Spielmann, A, Canez, L, Wang, LS, Nelson, P, Wheeler, T, Lutzoni F, Sérusiaux, E. (2022) High species richness in the lichen genus *Peltigera* (Ascomycota, Lecanoromycetes): 34 species in the dolichorhizoid and scabrosoid clades of sect. Polydactylon, including 23 new to science. Persoonia (in press).
 
