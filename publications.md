@@ -8,6 +8,8 @@ aside: false
 ---
 ### Journal publications
 
+35\. **Mercado-Díaz, J.A.**, Grewe, F., Lücking, R., Moncada, B., Rivera-Queralta, Y., Motito-Marín, Á., & Lumbsch, H. T. (2024). Genome-wide assessment of putative endemism and phylogeography of Cladonia sandstedei (Ascomycota: Cladoniaceae) in the Caribbean. The Lichenologist, 56(5), 219-235.
+
 34\. **Mercado-Díaz, J.A.**, Lücking, R., Moncada, B., Campbell, K.C.S.E., Delnatte, C., Familia, L., Falcón-Hidalgo, B., Motito-Marín, A., Rivera-Queralta, Y., Widhelm, T.J. and Lumbsch, H.T. (2023) Species assemblages of insular Caribbean *Sticta* (lichenized Ascomycota: Peltigerales) over ecological and evolutionary time scales. Molecular Phylogenetics and Evolution, p.107830.
 
 33\. **Mercado-Díaz, JA**, Holupchinski, E, Álvarez-Berríos, N, Gould, WA, Miller, P, Mote, T., Ramseyer, C, & González, G. (2023). Fostering knowledge-exchange and collaboration among drought-related initiatives in the Caribbean. Bulletin of the American Meteorological Society (in press). [pdf](\assets\pdf\1520-0477-BAMS-D-23-0054.1.pdf)
