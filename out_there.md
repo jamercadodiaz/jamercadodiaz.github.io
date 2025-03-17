@@ -23,6 +23,9 @@ To contribute in this direction, I have been involved in several IDEA initiative
 
 ## Popular media articles and interviews
 
+### 2025
+* **Articulo sobre nuevas subespecies de liquenes del genero Cladonia en el Caribe, incluyendo una potencialmente endemica para Puerto Rico** *Article about newly described subspecies of Cladonia in the Caribbean, including one potentially endemic to Puerto Rico*. [pdf](\assets\pdf\El_Nuevo_Da(2025-03-16)_page42.pdf)
+
 ### 2022
 * **Entrevista sobre líquenes en Puerto Rico en la seccion de *CIENCIA BORICUA* en el programa *Que es la que hay* con Luis Herrero y la Dra. Mónica Feliú-Mójer de CienciaPR.org en Radio Isla 1320 AM. Fecha: 14 de julio de 2022 (entrevista a partir del minuto 14)** *Interview about Puerto Rican lichens in the "Ciencia Boricua" section of the radio show "Que es la que hay" hosted by Luis Herrero and Dr. Mónica Feliú-Mójer in Radio Isla 1320 AM. Date: July 14, 2022*
 <iframe title="Qué es la que hay!- 14 de julio de 2022" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=q9eu2-12737d8-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=8&size=300" allowfullscreen=""></iframe>
