@@ -19,6 +19,14 @@ aside: false
  * March, 2009: 18th Annual Tuckerman Workshop, Florida, USA. (http://www.abls.org/) (Participant)
  * September, 2005: ‘Liking Lichens.’ Exploring Lichen Ecology and the Environment: An Educator Enhancement Initiative to Train Teachers and Build a State-wide Bio-Monitoring Project. Augusta, Georgia. (http://www.uga.edu/crms/lichens.htm) (Co-Instructor and Participant)
  * October, 2004: International Workshop of Tropical Lichenology (Ticolichen: The Costa Rican Lichen Biodiversity Inventory: http://www.fieldmuseum.org/research_collections/botany/botany_sites/ticolichen/index.html) (Participant)
+ * June 11-28, 2004: Biodiversity Assessment & Monitoring Course, Smithsonian Institution MAB Program, Casa Pueblo, Adjuntas, PR. (Participant)
+
+![Smithsonian_tshirt_1](/assets/Smithsonian-PR-1.jpeg)
+*T-shirt logo for the* Biodiversity Assessment & Monitoring Course *held in Adjuntas, PR and co-organized by Casa Pueblo and the Smithsonian Institution MAB Program.*
+
+![Smithsonian_tshirt_2](/assets/Smithsonian-PR-2.jpeg)
+*Participants from the* Biodiversity Assessment & Monitoring Course *held in Adjuntas, PR and co-organized by Casa Pueblo and the Smithsonian Institution MAB Program.*
+
     
 ### Organizations  
  * Society for the Study of Evolution
